@@ -1,0 +1,54 @@
+.input-wrapper {
+  margin-top: 20px;
+}
+
+
+.error {
+  color: #db4437;
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 12px;
+  margin-top: 4px;
+}
+
+
+.input-wrapper label {
+  font-weight: 600;
+  font-size: 18px;
+  color: #344054;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.custom-input {
+  font-size: 16px;
+  font-weight: 400;
+  width: 250px;
+  color: #344054;
+  background: #ffffff;
+  border: 1px solid #d0d5dd;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 8px;
+  padding: 10px 14px;
+}
+
+.custom-input::placeholder {
+  font-size: 16px;
+  font-weight: 400;
+  color: #667085;
+}
+
+
+
+.password-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 0;
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 7px;
+  
+  align-items: center;
+}

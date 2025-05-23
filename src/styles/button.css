@@ -1,0 +1,31 @@
+
+
+.costumed-btn {
+  font-weight: 500;
+  font-size: 16px;
+  background: transparent;
+  border: 1px solid #222222;
+  border-radius:var(--button-border-radius,#222222);
+  outline: none;
+  cursor: pointer;
+  min-width: 150px;
+  padding: 7px 0;
+  color: var(--text-color,#222222);
+  background: var(--color-bg-button, #d4d8dd);
+}
+
+
+
+.costumed-btn:hover {
+
+ background: var(--color-bg-button-light, #d4d8dd);
+  transform: translateY(-2px); 
+ 
+}
+
+
+
+
+.btn-wide-margin {
+  margin: 30px 100px;
+}

@@ -1,0 +1,23 @@
+
+
+
+.app-login {
+  position: absolute;
+  left: 40%;
+  top: 28%;
+}
+
+
+@media (max-width: 768px) {
+  .app-login{
+    position: static;
+    display: flex;
+    justify-content: center;
+    padding: 120px;
+     
+  }
+}
+
+.btn-default-margin {
+  margin-top: 35px;
+}
