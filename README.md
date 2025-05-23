@@ -32,7 +32,7 @@ Modularna React aplikacija sa podrškom za više tema i jezika, omogućava pregl
 ### 1. Kloniraj repozitorijum
 
 ```bash
-git clone https://github.com/MarkoMaricc/online-store
+git clone https://github.com/MarkoMaricc/alea-online-store.git
 cd online-store
 ```
 
