@@ -33,7 +33,7 @@ Modularna React aplikacija sa podrškom za više tema i jezika, omogućava pregl
 
 ```bash
 git clone https://github.com/MarkoMaricc/alea-online-store.git
-cd online-store
+cd alea-online-store
 ```
 
 ### 2. Instaliraj zavisnosti
