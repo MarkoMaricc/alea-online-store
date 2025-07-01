@@ -12,6 +12,7 @@ Modularna React aplikacija sa podrškom za više tema i jezika, omogućava pregl
 ✅ Višestruki jezici (npr. engleski i srpski)  
 ✅ Sačuvani podaci o temi i jeziku u `localStorage`  
 ✅ Arhitektura spremna za proširenja
+✅ Arhitektura spremna za proširenja
 
 ---
 
